@@ -1,2 +1,0 @@
--- oyyyy
--- mie ayam enak

@@ -35,3 +35,5 @@ SELECT
 FROM
     demand_skills
 INNER JOIN avg_salary on demand_skills.skill_id = avg_salary.skill_id
+ORDER BY salary desc,
+demand desc
