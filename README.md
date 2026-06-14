@@ -49,7 +49,8 @@ here is the breakdown
 - wide salary range from $184.000 to $650.000 indicate high salary potential in data analyst
 - high diversity in job title from data analyst to director of analyst
 
-![Top paying Jobs](assets\Code_Generated_Image.png)
+<img width="1600" height="933" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/940afe0e-50e0-4bb7-b87f-8a362475ae48" />
+
 *This bar graph showing top 10 salaries for data analyst, Gemini generated this graph from my SQL result*
 
 ### 2. Skills for Top Paying Jobs
@@ -89,7 +90,8 @@ breakdown:
 - and Tableu with 6
 - These are the top 3 skills required for the top paying jobs
 
-![Top Skills Required](assets\Code_Generated_Image1.png)
+<img width="1600" height="800" alt="Code_Generated_Image1" src="https://github.com/user-attachments/assets/06c4260f-c015-4533-b066-b58ae33e5ab9" />
+
 *This bar graph showing top skills required for data analyst, Gemini generated this graph from my SQL result*
 
 ### 3. Skills are the most on demand
